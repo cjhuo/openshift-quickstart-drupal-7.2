@@ -7,5 +7,5 @@ Default Credentials
 -------------------
 <table>
 <tr><td>Default Admin Username</td><td>admin</td></tr>
-<tr><td>Default Admin Password</td><td>openshift_changeme</td></tr>
+<tr><td>Default Admin Password</td><td>OpenShiftAdmin</td></tr>
 </table>
